@@ -6,7 +6,6 @@ from sense_hat import SenseHat
 from Record import Record
 from Action import Action
 from Display import Display
-from Operations import Operations
 
 import settings
 
