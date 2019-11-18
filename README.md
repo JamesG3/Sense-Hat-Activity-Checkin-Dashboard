@@ -37,9 +37,11 @@ The dashboard has two dimensions: **time** and **activities**, which means you c
 - switch to next activity's dashboard from the current displayed month.
 ##### d: push left then release (quick): 
 - switch to previous activity's dashboard from the current displayed month.
-##### e: push down and hold for 3 seconds, then release: 
+##### e: push the middle button then release (quick):
+- checkin / remove checkin
+##### f: push down and hold for 3 seconds, then release: 
 - go back to the current month's dashboard of the current activity.
-##### f: push the middle button and press for 3 seconds, then release: 
+##### g: push the middle button and press for 3 seconds, then release: 
 - close the dashboard / awake the dashboard.
 
 **When switching between different activities, you will see the title of the current activitiy before you see the dashboard:**  
