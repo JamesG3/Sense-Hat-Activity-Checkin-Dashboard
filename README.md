@@ -11,6 +11,16 @@ To make this run, you have to:
 - Have all required python package installed
 
 ## How to use:
+### Install:
+1. clone this repo to your Raspberry Pi
+```
+git clone git@github.com:JamesG3/Sense-Hat-Activity-Checkin-Dashboard.git
+```
+2. install all required packages then do:
+```
+python main.py
+```
+
 ### 1. The 8*8 LET matrix on Sense Hat
 ![dashboard1](imgs/img1.png)   
 The img above shows what the dashboard looks like. The two functional areas are highlighted by black squares:  
