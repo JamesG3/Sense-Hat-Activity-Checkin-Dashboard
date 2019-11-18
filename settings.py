@@ -1,0 +1,11 @@
+
+# Colors
+GREEN = (0, 100, 0)
+BLUE_GREEN = (0, 100, 100)
+YELLOW = (100, 100, 0)
+BLUE = (0, 0, 100)
+RED = (100, 0, 0)
+PURPLE = (100, 0, 100)
+BROWN = (102, 51, 0)
+WHITE = (100, 100, 100)
+NOTHING = (0,0,0)
